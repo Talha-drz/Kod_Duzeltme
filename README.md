@@ -34,7 +34,7 @@ Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş bir GitHub dosya y�
 
 1. **Projeyi Klonla veya İndir:**
     ```bash
-    git clone https://github.com/talhadrz/Kod_Duzelt.git
+   [git clone https://github.com/talhadrz/Kod_Duzelt.git](https://github.com/talhadrz/Kod_Duzeltme/blob/master/README.md)
     ```
 2. **Visual Studio ile Açın ve Gerekli Bağımlılıkları Kurun.**
 3. **GitHub Token Ayarları:**
