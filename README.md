@@ -13,6 +13,8 @@ Bu proje, GitHub repository'lerini yönetmek için geliştirilmiş bir masaüst�
 ---
 
 ## 🔑 Giriş Sayfası İşleyişi  
+![image](https://github.com/user-attachments/assets/0b4b5496-be9e-4bb0-9280-c9c1a14d74da)
+
 Giriş sayfasında kullanıcıdan şu bilgiler istenir:  
 - **GitHub Kullanıcı Adı** (`cmbGithubAd` kontrolü)  
 - **Token** (`txtToken` kontrolü)  
