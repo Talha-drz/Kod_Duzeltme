@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/33dc181e-062d-40d5-af8d-c4a65c29d501)
+
 # GitHub Dosya Yöneticisi
 
 Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş bir GitHub dosya yöneticisidir. Uygulama, GitHub deposuna dosya yükleme, güncelleme ve indirme işlemlerini kolayca yapmanızı sağlar.
