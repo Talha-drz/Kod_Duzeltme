@@ -57,9 +57,8 @@ Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş bir GitHub dosya y�
 │   ├── Program.cs        # Ana Başlangıç Dosyası
 │   └── README.md         # Proje Tanıtımı
 
----
-
-### Nasıl Kullanılır?
+```
+ ### Nasıl Kullanılır?
 1. Bu kodu bir metin düzenleyicide (`Notepad`, `Visual Studio Code`, vs.) kopyalayıp yapıştırın.
 2. Dosyayı `README.md` olarak kaydedin.
 3. Proje klasörünüzün ana dizinine yerleştirin.
