@@ -56,3 +56,15 @@ Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş bir GitHub dosya y�
 │   ├── Form2.cs          # Dosya Yönetim Formu
 │   ├── Program.cs        # Ana Başlangıç Dosyası
 │   └── README.md         # Proje Tanıtımı
+
+---
+
+### Nasıl Kullanılır?
+1. Bu kodu bir metin düzenleyicide (`Notepad`, `Visual Studio Code`, vs.) kopyalayıp yapıştırın.
+2. Dosyayı `README.md` olarak kaydedin.
+3. Proje klasörünüzün ana dizinine yerleştirin.
+4. GitHub'a yükleyin.
+
+### Daha Fazla Düzenleme İster misiniz?
+Başka değişiklikler veya eklemeler yapmak isterseniz, sadece belirtin!
+
