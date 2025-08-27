@@ -1,0 +1,14 @@
+![image](https://github.com/user-attachments/assets/33dc181e-062d-40d5-af8d-c4a65c29d501)
+
+Bu proje, C# Windows Forms kullanılarak geliştirilmiş bir GitHub dosya yöneticisidir.
+Kullanıcılar, GitHub depolarındaki dosyaları kolayca yükleyebilir, güncelleyebilir ve bilgisayarlarına indirebilir.
+Dosya içeriklerini doğrudan görüntüleyip düzenleyebilme imkânı sağlar.
+Masaüstü klasörleri ile senkronizasyon yaparak hızlı ve güvenli bir şekilde çalışma olanağı sunar.
+GitHub Token entegrasyonu sayesinde yetkili ve güvenli erişim sağlanır.
+Projede modern kullanıcı arayüzü ile basit ama işlevsel tasarım benimsenmiştir.
+Küçük ve orta ölçekli projeler için dosya yönetim süreçlerini hızlandırır.
+Visual Studio veya başka bir C# IDE ile sorunsuz çalışır.
+Kullanıcı dostu deneyim ve hızlı işlem yapabilme önceliklidir.
+Eğitim amaçlı ve profesyonel kullanım için uygundur.
+Projede yapılan işlemler tamamen GitHub API ile entegre çalışmaktadır.
+Talha Durmaz tarafından geliştirilmiş ve yapay zekâ (ChatGPT) yardımıyla optimize edilmiştir.
